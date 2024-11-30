@@ -4,20 +4,20 @@
 
 
 
-<div class="grid grid-rows-auto gap-6 p-8">
-  <div class="flex flex-col items-center space-y-4">
-    <button class="w-full text-5xl text-gray-500 font-bold p-8 bg-gray-300 hover:bg-gray-400">
+<div class="grid grid-rows-auto gap-6 p-4 rounded-lg">
+  <div class="items-center space-y-4 w-full">
+    <button class=" rounded-lg w-full text-5xl text-othergray font-bold p-8 bg-divgray hover:bg-gray-500">
       WinterGeneral
     </button>
   </div>
 
 
   <div class="flex justify-center space-x-4">
-    <button class="w-auto text-2xl text-gray-600 font-bold p-4 bg-gray-400 hover:bg-gray-500">
+    <button class="rounded-lg w-1/2 text-2xl text-othergray font-bold bg-divgray hover:bg-gray-500">
       Projects
     </button>
 
-    <button class="w-auto text-2xl text-gray-600 font-bold p-4 bg-gray-400 hover:bg-gray-500">
+    <button class="rounded-lg w-1/2 text-2xl text-othergray font-bold p-4 bg-divgray hover:bg-gray-500">
       Social Links
     </button>
   </div>
