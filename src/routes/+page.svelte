@@ -22,8 +22,7 @@
       <h1 class="laptop:text-5xl desktop:text-5xl tablet:text-4xl font-bold text-wrap text-center justify-center">
         Technologies
       </h1>
-      <ul>
-        class="laptop:text-2xl desktop:text-2xl tablet:text-1xl font-bold list-disc pl-5"
+      <ul class="laptop:text-2xl desktop:text-2xl tablet:text-1xl font-bold list-disc pl-5">
         <li>Svelte <br/><br/></li>
         <li>Basic Python<br/><br/></li>
         <li>Pycord<br/><br/></li>
